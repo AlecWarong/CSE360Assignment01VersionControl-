@@ -16,6 +16,7 @@ public class AddingMachine {
   }
 
   public void subtract (int value) {
+	  total = total - value;
   }
 
   public String toString () {
