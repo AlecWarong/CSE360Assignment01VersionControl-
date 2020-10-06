@@ -1,5 +1,7 @@
 package cse360assignment02;
 
+//https://github.com/AlecWarong/CSE360Assignment01VersionControl-.git
+
 public class AddingMachine {
 
     private int total;
